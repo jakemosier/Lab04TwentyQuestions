@@ -1,7 +1,7 @@
 public class TwentyQuestionsView {
 
     public void splash() {
-        //TODO Student
+        System.out.println("Welcome to Twenty Questions! The game will start in a moment.");
     }
 
     public void welcome(){
@@ -20,7 +20,7 @@ public class TwentyQuestionsView {
 
     public void winnerMessage(){
         //TODO student
-        System.out.println("Your guess is correct! Congratulations!\n");
+        System.out.println("Congratulations!\n Your Guess was correct!");
     }
 
 
